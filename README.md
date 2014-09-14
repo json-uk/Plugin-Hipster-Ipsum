@@ -33,6 +33,6 @@ Choose which type of hipster tickles your fancy:
 
 
 ### Html `html` *optional*
-**default: false**
+**default: true**
 
-Strips html from output, replaces p tags with newlines. *Note:* The plugin does not add any markup to the output.
+When **false**, strips html from output, replaces p tags with newlines.

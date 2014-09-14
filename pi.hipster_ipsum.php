@@ -12,7 +12,7 @@ class Plugin_hipster_ipsum extends Plugin {
   {
     $paragraphs       = $this->fetchParam('paragraphs', '4', 'is_numeric');
     $type             = $this->fetchParam('type', 'hipster-latin');
-    $html             = $this->fetchParam('html', 'false');
+    $html             = $this->fetchParam('html', 'true');
 
     $request_url = "http://hipsterjesus.com/api/?type={$type}&paras={$paragraphs}&html={$html}";
 
