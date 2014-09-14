@@ -5,7 +5,7 @@ The Hipster Ipsum plugin will generate paragraph after paragraph of hipster-lici
 
 ## Installing
 1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
-2. Ensure the folder name is `hipster_ipsum` (Github timestamps the download folder).
+2. Ensure the folder name is `hipster_ipsum`.
 3. Enjoy.
 
 ## Usage
