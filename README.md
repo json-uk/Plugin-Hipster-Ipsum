@@ -1,7 +1,7 @@
 Statamic Hipster Ipsum Plugin
 ================================
 
-The Hipster Ipsum plugin will generate paragraph after paragraph of hipster-licious content for your template. This plugin uses the great API from (http://hipsterjesus.com/)[Hipster Jesus]...
+The Hipster Ipsum plugin will generate paragraph after paragraph of hipster-licious content for your template. This plugin uses the great API from [Hipster Jesus](http://hipsterjesus.com/ "http://hipsterjesus.com/")...
 
 ## Installing
 1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
